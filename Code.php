@@ -1,5 +1,5 @@
 <?php
-include('dbconnection.php');
+include('Connection.php');
 
 try {
     $query = "select * from store";

@@ -1,5 +1,5 @@
 $.ajax({
-    url: "categories.php",
+    url: "Code.php",
     dataType: "json"
 }).done(function(data) {
     let result = data;
